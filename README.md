@@ -2,9 +2,7 @@
 
 ## Overview
 
-This is a simple Task Manager web application built using Flask and SQLAlchemy. The app allows users to create, edit, and delete tasks. Each task can have a name, description, due date, urgency status, and can be assigned to a specific category. Categories can be created independently in the Category tab.
-
-The live link can be found here: https://kizzy-taskmanager.herokuapp.com/
+This is a simple Personal Task Manager web application built using Flask and SQLAlchemy. The app is designed to serve as a personal task organization tool, allowing a single user to create, edit, and delete tasks. Each task can have a name, description, due date, urgency status, and can be assigned to a specific category. Categories can be created independently in the Category tab.
 
 ## Features
 
